@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "password": "123"
+    }
+  ],
+  "student": [
+    {
+      "id": "6dc2",
+      "name": "oussama abouzouhour",
+      "email": "arer@re.com",
+      "phone": "0706901807",
+      "notes": [
+        {
+          "note": 18.5,
+          "subject": "Math",
+          "description": "raze"
+        },
+        {
+          "note": 17,
+          "subject": "Uml",
+          "description": "raraz"
+        },
+        {
+          "note": 18.5,
+          "subject": "Linux and bash scription",
+          "description": "A++"
+        }
+      ]
+    },
+    {
+      "id": "db15",
+      "name": "Souhail Echadini",
+      "email": "raez@gmail.com",
+      "phone": "060528716",
+      "active": true,
+      "notes": []
+    },
+    {
+      "id": "2839",
+      "name": "user4-updated",
+      "email": "user4@gmail.com",
+      "phone": "0662077922",
+      "notes": [
+        {
+          "note": 20,
+          "subject": "Math",
+          "description": "tres bien"
+        }
+      ]
+    }
+  ]
+}
